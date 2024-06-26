@@ -1,0 +1,109 @@
+body{
+    margin: 0px;
+    
+}
+.sai a {
+    text-decoration: none;
+}
+
+.rakesh h1{
+    color: grey;
+}
+.rakesh header{
+ padding:25px;
+background-color: rgb(28, 195, 195);
+
+
+}
+header h1{
+    text-align:center;
+color:whitesmoke ;
+background-color: rgb(8, 149, 149);
+margin: 0px;
+}
+nav {
+    text-align: center;
+    background-color:rgb(179, 147, 147) ;
+    margin-top: 0px;
+}
+nav a{
+    text-decoration: none;
+    padding: 10px 25px;
+display: inline-block;
+font-size: 20px;
+color: whitesmoke;
+
+}
+.ab h1{
+    color: grey;
+    
+}
+
+nav a:hover{
+    color: aqua;
+    background-color: brown;
+}
+section{
+    text-align: center;
+
+}
+.sai{
+    text-align: center;
+    background-color: grey;
+    border: 0px;
+    font-size:medium;
+    margin-top: 5px;
+}
+.rakesh p{ 
+    text-align: center;
+    font-size:20px;
+}
+
+
+
+.aaa h4{
+font-size:20px;
+color: grey;
+}
+.ab img{
+    width: 200px;
+    height:200px;
+    display:inline-block;
+    margin: 10px;
+}
+.y:hover img{
+    transform:scale(1.5);
+}
+.a h2{
+    color:grey;
+}
+.balu figure img{
+    width:220px;
+    height: 250px;
+    align:center;
+    margin-right: 100px;
+}
+.balu{
+
+    box-shadow: 0 0 15px;
+    margin: auto;
+    width: 300px;
+    height: 500px;
+    display: inline-block;
+    margin:10px;
+    
+  
+}
+.balu figcaption{
+    font-size:25px;
+    color:grey;
+
+}
+footer{
+    text-align: center;
+    background-color: grey;
+    color:whitesmoke ;
+}
+ .santhosh{
+    margin-bottom:20px;
+ }   
